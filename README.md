@@ -3,8 +3,7 @@
 I'm a game programmer with experience in developing various game systems and participating in game jams. I’m passionate about creating engaging gameplay experiences and constantly learning new technologies. 
 
 ## 🎮 About Me
-- 🌱 I’m currently working on a reusable starter project for future game development.
-<!-- - 💼 I previously worked as a programmer at ... -->
+- 🌱 I’m currently working on a reusable starter project for future game development.<!-- - 💼 I previously worked as a programmer at ... -->
 - 🎨 I co-founded a micro game studio called **The Boys Project** to participate in game jams.
 - 🛠️ I enjoy working with [Unity](https://unity.com) and programming in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
@@ -24,7 +23,7 @@ I'm a game programmer with experience in developing various game systems and par
 ## 📫 How to reach me
 - LinkedIn: [Dwi Wahyu Aji Kurniawan](https://www.linkedin.com/in/dwakurniawan/)
 - Email: [dwakurniawan@gmail.com](mailto:dwakurniawan@gmail.com)
-- Discord: shieru_
+- Discord: [shieru_](https://discordapp.com/users/189181181919494144)
 
 ## ⚡ Fun Facts
 - I love participating in game jams and pushing my creative limits.

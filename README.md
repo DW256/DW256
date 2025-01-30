@@ -33,3 +33,5 @@ I'm a game programmer with experience in developing various game systems and par
 ---
 
 Feel free to check out my repositories and let’s connect!
+
+<a href="https://app.daily.dev/dwakurniawan"><img src="https://api.daily.dev/devcards/v2/lMMZWyzAsJYupjLhUdoBQ.png?type=default&r=5tn" width="356" alt="Dwi Wahyu Aji Kurniawan's Dev Card"/></a>
